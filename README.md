@@ -1,11 +1,11 @@
-# CTF-X-Privacy-Policy
+# Flaws-Privacy-Policy
 This Ai ChatBot Is Free Of Cost And Uses OpenAi's API For Redirecting Responses And Giving You Your Precised Answer Over Any Questions.
 Kindly, Don't Misuse The Bot And The Bot Is Created For Educational Purpose Only.
 If Anything Irregular Happens Then We Are Not Responsible For IT.
 
-# By Using Our Bot "CTF-X" You're Complying With "Discord" TOS & Guidelines.
+# By Using Our Bot "Flaws" You're Complying With "Discord" TOS & Guidelines.
 
-# What Info Does "CTF-X" Store?
+# What Info Does "Flaws" Store?
 The Bot Only Stores The User ID & Guilds ID & Guilds Name.
 
 # Does It Store Message Content?
